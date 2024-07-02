@@ -19,7 +19,7 @@ Temperature sensor reader for Linux
 
 sudo (package manager | example:apt) install git
 
-git clone https://github.com/NorthLight07/NTSSensorReader/
+git clone https://github.com/fixin0/NTSSensorReader/
 
 cd NTSSensorReader/out
 
